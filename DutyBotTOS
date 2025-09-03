@@ -1,0 +1,74 @@
+# Terms of Service for [Your Bot Name]
+
+**Effective Date:** 2025-09-03  
+**Owner/Operator:** Oinkzlol (“we”, “us”, “our”)  
+**Contact:** oinkzlol@gmail.com
+
+> **Summary (not a substitute for the full terms):**
+> - You must follow Discord’s rules and applicable law.
+> - The bot is provided “as is”. We don’t guarantee accuracy or uptime.
+> - The bot helps with time summaries but **is not a certified timekeeping system**. You are responsible for payroll and compliance decisions.
+> - We store minimal data needed to operate (see our [Privacy Policy](./PRIVACY.md)).
+
+---
+
+## 1) Acceptance of Terms
+By adding or using **[Your Bot Name]** (the “Service” or “Bot”), you agree to these Terms and our [Privacy Policy](./PRIVACY.md). If you do not agree, do not use the Service.
+
+## 2) Eligibility & Accounts
+You must meet Discord’s eligibility requirements and comply with its [Terms of Service] and [Community Guidelines]. You are responsible for the permissions you grant the Bot in your server.
+
+## 3) Description of the Service
+The Bot provides features such as:
+- Parsing “clock-in/clock-out” messages in configured channels and computing summaries.
+- Slash commands (e.g., totals, daily breakdowns, CSV exports) for permitted users/roles.
+
+Features may change or be discontinued without notice.
+
+## 4) Server Permissions & Your Responsibilities
+You control which channels the Bot can access. You are responsible for:
+- Ensuring access is limited to appropriate channels and roles.
+- The content posted in your server.
+- Using results appropriately (e.g., complying with labor/wage laws and audit requirements).
+
+**No Professional Advice.** The Bot’s outputs are for convenience only and may contain errors. They do **not** constitute legal, HR, or financial advice.
+
+## 5) Prohibited Use
+You will not:
+- Violate any law, contract, or third-party right.
+- Use the Bot to collect or process sensitive personal data (e.g., health, financial, minors’ data) without explicit, lawful basis and consent where required.
+- Attempt to reverse engineer, attack, or overload the Bot or its infrastructure.
+- Circumvent role/permission restrictions.
+
+We may suspend or terminate access for violations or risk to the Service.
+
+## 6) Intellectual Property
+We (or our licensors) own the Service and associated materials excluding your server content. You grant us a non-exclusive license to process content as needed to provide the Service. You retain your rights in your content.
+
+## 7) Third-Party Services
+The Service integrates with Discord and may use third-party processors/hosting (see [Privacy Policy](./PRIVACY.md)). Those services are governed by their own terms and policies.
+
+## 8) Disclaimers
+THE SERVICE IS PROVIDED **“AS IS” AND “AS AVAILABLE.”** TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT OUTPUTS WILL BE ACCURATE OR COMPLETE.
+
+## 9) Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE ARE NOT LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS/REVENUE/GOODWILL, EVEN IF ADVISED OF THE POSSIBILITY. OUR AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SERVICE SHALL NOT EXCEED **US$100** OR THE AMOUNT YOU PAID US IN THE 12 MONTHS PRECEDING THE CLAIM, WHICHEVER IS GREATER.
+
+## 10) Indemnification
+You agree to defend, indemnify, and hold us harmless from any claims, damages, liabilities, costs, and expenses arising out of or related to your use of the Service, your content, or your violation of these Terms or applicable law.
+
+## 11) Termination
+You may remove the Bot at any time. We may suspend or terminate your access at our discretion, including for violation of these Terms or risk to the Service. Upon termination, sections that by their nature should survive (e.g., IP, disclaimers, limitations) will survive.
+
+## 12) Changes to the Terms
+We may update these Terms. Material changes will be noted by updating the “Effective Date”. Continued use constitutes acceptance of the changes.
+
+## 13) Governing Law & Venue
+These Terms are governed by the laws of **Wisconsin, USA**, excluding conflict-of-law rules. You agree to exclusive jurisdiction and venue in the courts located in **Wisconsin, USA**.
+
+## 14) Contact
+Questions? Email **oinkzlol@gmail.com**.
+
+---
+
+**Not affiliated with or endorsed by Discord. "Discord" is a trademark of Discord Inc.**
